@@ -1,0 +1,73 @@
+
+
+.contact_form{	
+	width: 460px; 
+  height: auto;
+  margin: 80px auto;
+	border-radius: 10px;  
+	padding-top: 30px;
+	padding-bottom: 20px;  
+  background-color: #57652a25; 
+  padding-left: 30px; 
+}
+
+
+.formulario input{
+	background-color: #fbfbfb; 
+	width: 408px; 
+	height: 40px; 
+	border-radius: 5px;  
+	border-style: solid; 
+	border-width: 1px; 
+	border-color: #57652A; 
+	
+  margin-bottom: 20px; 
+}
+
+
+.formulario textarea{
+  background-color: #fbfbfb; 
+	width: 405px; 
+	height: 150px; 
+	border-radius: 5px;  
+	border-style: solid; 
+	border-width: 1px; 
+	border-color: #57652A; 
+	margin-top: 10px;  
+	padding-left: 10px;
+  margin-bottom: 20px; 
+  padding-top: 15px; 
+}
+
+
+
+
+.formulario button{
+
+    
+    background-color: #57652a;
+    /* Color de fondo del botón */
+    color: #F4F1D5;
+    /* Color del texto del botón */
+    border-radius: 5px;
+    /* Redondea las esquinas del botón */
+    cursor: pointer;
+    /* Cambia el cursor a un puntero al pasar el mouse */
+    width: 150px;
+    margin-bottom: 10px;
+    padding: 8px;
+}
+    
+
+
+
+
+
+.formulario .aviso{
+	font-size: 16px;  
+	color: #57652A;  
+}
+
+
+
+
