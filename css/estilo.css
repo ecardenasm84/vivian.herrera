@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'MRF Lemonberry Sans.otf Lemonberry Sans';
-    src: url('/fuentes/MRF Lemonberry Sans.otf') format('truetype')
+    src: url('../fuentes/MRF Lemonberry Sans.otf') format('truetype')
 }
 
 body {
     background-repeat: repeat;
-    background-image: url(/imagenes/fondo_pantalla1.png);
+    background-image: url(../imagenes/fondo_pantalla1.png);
     font-family: 'MRF Lemonberry Sans.otf Lemonberry Sans', sans-serif;
     margin: 0;
     padding: 0;
@@ -14,7 +14,7 @@ body {
 .banner {
     width: 100%;
     height: 320px;
-    background-image: url(/imagenes/portada5.png);
+    background-image: url(../imagenes/portada5.png);
     background-repeat: no-repeat;
     background-position: center;
     position: relative;
